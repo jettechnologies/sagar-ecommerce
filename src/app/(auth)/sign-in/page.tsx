@@ -51,7 +51,7 @@ export default function Page() {
               "w-full",
               "flex flex-col gap-8 lg:justify-center",
               "px-8 py-10 lg:px-[88px]",
-              "sm:max-w-[480px] md:max-w-[520px] lg:max-w-[560px] lg:max-w-[560px]",
+              "sm:max-w-[480px] md:max-w-[520px] lg:max-w-[560px]",
             ])}
           >
             <div className="space-y-6">

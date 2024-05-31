@@ -22,6 +22,9 @@ import {
 // data
 import products from "@/data/product.json";
 
+// images import
+import { headPhonesImg2, headPhonesImg4, headPhonesImg5, heroImg, promotionCardImg } from "@/public/images";
+
 export default function Home() {
   return (
     <>
@@ -49,7 +52,7 @@ export default function Home() {
         {/* Image content */}
         <div className="flex h-auto w-full items-end justify-center overflow-hidden lg:order-1">
           <Image
-            src="/images/main.png"
+            src={heroImg}
             width={600}
             height={761}
             alt="nigga-listening-music"
@@ -90,7 +93,7 @@ export default function Home() {
             <div className="relative aspect-[0.8/1] min-h-[377px] w-full min-w-[311px] bg-[#F3F5F7] p-8 sm:row-span-2 sm:aspect-auto sm:h-full sm:min-w-0">
               <div className="absolute inset-0 flex h-full w-full items-center justify-center overflow-hidden">
                 <Image
-                  src="/images/sumplekuping-2.png"
+                  src={headPhonesImg2}
                   width={262}
                   height={349}
                   alt="background collection"
@@ -115,7 +118,7 @@ export default function Home() {
             <div className="relative aspect-[1/0.5] min-h-[180px] w-full min-w-[311px] bg-[#F3F5F7] p-8 sm:aspect-auto sm:h-full sm:min-w-0">
               <div className="absolute inset-0 flex h-full w-full items-center justify-center overflow-hidden">
                 <Image
-                  src="/images/sumplekuping-4.png"
+                  src={headPhonesImg4}
                   width={262}
                   height={349}
                   alt="background collection"
@@ -140,7 +143,7 @@ export default function Home() {
             <div className="relative aspect-[1/0.5] min-h-[180px] w-full min-w-[311px] bg-[#F3F5F7] p-8 sm:aspect-auto sm:h-full sm:min-w-0">
               <div className="absolute inset-0 flex h-full w-full items-center justify-center overflow-hidden">
                 <Image
-                  src="/images/sumplekuping-5.png"
+                  src={headPhonesImg5}
                   width={262}
                   height={349}
                   alt="background collection"
@@ -202,7 +205,7 @@ export default function Home() {
       <div className="grid overflow-hidden md:grid-cols-2 lg:h-full lg:max-h-[500px] lg:place-items-center">
         <div className="w-full justify-end bg-gray-400 md:flex">
           <Image
-            src="/images/promotion-card.png"
+            src={promotionCardImg}
             width={1250}
             height={1080}
             alt="promotion-card"

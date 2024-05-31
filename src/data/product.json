@@ -2,7 +2,7 @@
   {
     "id": 1,
     "image": {
-      "src": "/images/sumplekuping-1.png",
+      "src": "/public/images/sumplekuping-1.png",
       "alt": "sumple-kuping"
     },
     "rating": 5,
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "image": {
-      "src": "/images/sumplekuping-2.png",
+      "src": "/public/images/sumplekuping-2.png",
       "alt": "sumple-kuping"
     },
     "rating": 5,
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "image": {
-      "src": "/images/sumplekuping-3.png",
+      "src": "/public/images/sumplekuping-3.png",
       "alt": "sumple-kuping"
     },
     "rating": 4,
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "image": {
-      "src": "/images/sumplekuping-4.png",
+      "src": "/public/images/sumplekuping-4.png",
       "alt": "sumple-kuping"
     },
     "rating": 5,
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "image": {
-      "src": "/images/sumplekuping-5.png",
+      "src": "/public/images/sumplekuping-5.png",
       "alt": "sumple-kuping"
     },
     "rating": 5,
@@ -57,7 +57,7 @@
   {
     "id": 6,
     "image": {
-      "src": "/images/sumplekuping-6.png",
+      "src": "/public/images/sumplekuping-6.png",
       "alt": "sumple-kuping"
     },
     "rating": 4,
@@ -68,7 +68,7 @@
   {
     "id": 7,
     "image": {
-      "src": "/images/sumplekuping-7.png",
+      "src": "/public/images/sumplekuping-7.png",
       "alt": "sumple-kuping"
     },
     "rating": 5,
@@ -79,7 +79,7 @@
   {
     "id": 8,
     "image": {
-      "src": "/images/sumplekuping-8.png",
+      "src": "/public/images/sumplekuping-8.png",
       "alt": "sumple-kuping"
     },
     "rating": 5,
